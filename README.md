@@ -3,7 +3,7 @@
 ## About Me
 
 - 🌱 I’m currently learning and exploring Big Data technologies, Python, and Backend Development.
-- 👨‍💻 Passionate about data analytics, software engineering, and building impactful solutions.
+- 👨‍💻 Passionate about Web Development, Software Engineering, and building impactful solutions.
 - 💻 Currently working on projects related to machine learning, data processing, and web applications.
 - 📫 Reach me at : [LinkedIn - Agraja](https://www.linkedin.com/in/agraja-gottipati-b00a11248/)
 
